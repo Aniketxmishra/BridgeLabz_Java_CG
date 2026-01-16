@@ -142,4 +142,112 @@ Coverage included:
 - Level 1 and Level 2 method-based problems
 - Applying methods to real problem statements
 - Improving code structure and reusability
-  
+
+# 20th December 2025
+
+On this day, we focused on setting up and verifying the required tools and revising Java basics.
+
+Activities performed:
+- Installed and configured Notepad++
+- Installed and configured Eclipse IDE
+- Installed and verified Java Development Kit (JDK)
+- Studied the basics of Java programming
+
+---
+
+# 22nd December 2025
+
+We studied **Programming Elements** in Java.
+
+Topics covered:
+- Basic programming constructs
+- Input and output handling
+- Simple computational logic using Java
+
+---
+
+# 23rd December 2025
+
+We solved **Programming Elements** practice problems.
+
+Activities performed:
+- Implemented logic-based Java programs
+- Practiced problem-solving using programming elements
+
+---
+
+# 24th December 2025
+
+We studied **Control Flow** concepts in Java.
+
+Topics covered:
+- Conditional statements
+- Looping constructs
+- Control flow–based problem solving
+
+We also completed control flow–related practice problems.
+
+---
+
+# 25th December 2025
+
+We worked on **scenario-based problems**.
+
+Activities performed:
+- Solved real-world problem statements
+- Applied Java logic to practical scenarios
+
+---
+
+# 26th December 2025
+
+We completed and submitted **Array-based problems**.
+
+Topics covered:
+- Array traversal
+- Logical problem solving using arrays
+- Submission of array practice problems
+
+---
+
+# 27th December 2025
+
+We completed and submitted **String-based problems**.
+
+Topics covered:
+- String manipulation
+- String operations
+- Practice and submission of string problems
+
+---
+
+# 29th December 2025
+
+We completed and submitted **Method-based practice problems**.
+
+Topics covered:
+- Method implementation
+- Parameter passing and return values
+- Logical problem solving using methods
+
+---
+
+# 30th December 2025
+
+We completed all remaining **scenario-based problems**.
+
+Activities performed:
+- Applied Java concepts to real-world scenarios
+- Final submission of scenario-based problem sets
+
+---
+
+# 31st December 2025
+
+We studied **Classes and Objects** in Java.
+
+Topics covered:
+- Introduction to classes and objects
+- Object creation and usage
+- Completed and submitted class and object–based problems
+
