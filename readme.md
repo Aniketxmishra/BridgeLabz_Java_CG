@@ -143,5 +143,56 @@ Coverage included:
 - Applying methods to real problem statements
 - Improving code structure and reusability
   
-Also organized and uploaded all the work into GitHub using a **new branch-based repository structure** for better version control and project organization.
+### 🔹 20th December 2025 (Saturday)
+- Installed and set up Notepad++, Eclipse IDE, and JDK  
+- Studied Java basics and environment configuration  
+
+---
+
+### 🔹 22nd December 2025 (Monday)
+- Studied **Programming Elements** in Java  
+
+---
+
+### 🔹 23rd December 2025 (Tuesday)
+- Solved **Programming Elements** practice problems  
+
+---
+
+### 🔹 24th December 2025 (Wednesday)
+- Studied **Control Flow** in Java  
+- Completed control flow–based problems  
+
+---
+
+### 🔹 25th December 2025 (Thursday)
+- Completed **scenario-based problems**  
+
+---
+
+### 🔹 26th December 2025 (Friday)
+- Completed and submitted **Array practice problems**  
+
+---
+
+### 🔹 27th December 2025 (Saturday)
+- Completed and submitted **String practice problems**  
+
+---
+
+### 🔹 29th December 2025 (Monday)
+- Submitted **Method-based practice problems**  
+
+---
+
+### 🔹 30th December 2025 (Tuesday)
+- Completed all remaining **scenario-based problems**  
+
+---
+
+### 🔹 31st December 2025 (Wednesday)
+- Studied **Classes and Objects** in Java  
+- Completed and submitted **class and object–based problems**  
+
+---
 
